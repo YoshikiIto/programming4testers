@@ -6,5 +6,6 @@
 * [講師](/instructor.md)
 * [環境構築](/env.md)
 * <hr>
-* [プログラミングを始める前に](/introduction.md)
+* [プログラミングを始めよう](/introduction.md)
+* [プログラミングの基礎知識](/fundamentals.md)
 * [実際にやってみよう～ワーク～](/work.md)
