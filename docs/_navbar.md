@@ -1,0 +1,1 @@
+* [JaSST'22 Tokyo](http://www.jasst.jp/symposium/jasst22tokyo.html)
